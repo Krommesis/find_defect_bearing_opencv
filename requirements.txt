@@ -1,0 +1,4 @@
+scikit-image==0.17.1
+opencv-python==3.4.17.63
+imutils
+numpy
